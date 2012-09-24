@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="main_blue">#0075a8</color>
+	<color name="dark_blue">#2C333C</color>
+	<color name="gray_blue_text">#67727B</color>
+	<color name="link_text">#1071A4</color>
+	<color name="gray_label_text">#808080</color>
+    <color name="action_bar_background">#5F6A72</color>
+    <color name="action_bar_tab_background">#0075A8</color>
+    <color name="header_background">#D6D6D6</color>
+    <color name="map_buttons_background">#444A4E</color>
+    <color name="pet_profile_details_background">#E5E6E7</color>
+    <color name="main_title">#3A4045</color>
+    <color name="dashboard_background">#84919A</color>
+    <color name="dashboard_row_background">#EFEFEF</color>
+    <color name="dashboard_row_background_red">#F05C55</color>
+    <color name="dashboard_row_background_toggle">#0075A8</color>
+    <color name="dashboard_row_background_middle">#295264</color>
+    <color name="dashboard_row_score">#EEEEEF</color>
+    <color name="dashboard_row_text_edit_profile">#2183A8</color>
+	<color name="dashboard_row_text_date_and_time">#909090</color>
+    <color name="dashboard_row_text_place">#4E5960</color>
+    <color name="dashboard_row_text_address">#5F6A72</color>
+    <color name="disabled_text">#C2C2C2</color>
+    <color name="activity_monitor_pet_details_background">#F1F2F3</color>
+    <color name="activity_monitor_pet_details_name">#4A5157</color>
+    <color name="activity_monitor_pet_details_other_data">#727D85</color>
+    <color name="activity_monitor_button_background">#454A4E</color>
+    <color name="activity_monitor_button_background_disabled">@color/activity_monitor_button_background</color>
+    <color name="title_separator">#40FFFFFF</color>
+    <color name="action_bar_separator">#626262</color>
+    <color name="action_bar_tab_separator">#FFFFFF</color>
+    <color name="session_foreground_past">#FF999999</color>
+    <color name="pinned_header_background">#FF202020</color>
+    <color name="primary_cell_sort_data">#848484</color>
+    <color name="header_bar_text">#FFCBCBCB</color>
+    <color name="separator">#DDDDDD</color>
+    <color name="vertical_separator">#BEBFC0</color>
+    <color name="login_horizontal_separator">#B4B4B4</color>
+
+    <color name="activity_monitor_radio_group_background">#E5E6E7</color>
+    
+    <color name="am_reference_text">#5F6A72</color>
+    <color name="am_dialog_about_text">#909090</color>
+    <color name="am_dialog_about_separator">#C9C9C9</color>
+    <color name="am_dialog_about_header_background">#F3F3F3</color>
+    <color name="am_dialog_about_content_background">#FDFDFD</color>
+
+    <color name="am_popin_light_background">#A0000000</color>
+    <color name="am_popin_dark_background">#AA00000A</color>
+    
+    <color name="dialog_about_background">#F3F3F3</color>
+    <color name="dialog_about_font_blue">#0075A8</color>
+    <color name="dialog_about_font_grey">#4E5960</color>
+    
+    <color name="radio_button_dark_grey">#77828A</color>
+    <color name="radio_button_light_grey">#C7CBCE</color>
+    <color name="radio_bullet_blue">#0075A8</color>
+    
+    <color name="blue_resting">#6EB7E4</color>
+    <color name="green_light">#3CF665</color>
+    <color name="yellow_moderate">#F3F123</color>
+    <color name="orange_high">#F7BA17</color>
+    <color name="grey_day_remaining">#D8D8D8</color>
+
+    <color name="am_graph_reference_separator">#E0E0E0</color>
+    <color name="am_history_flipper_background">#CED0D1</color>
+    
+    <color name="community_background">#FFFFFF</color>
+
+    <color name="settings_background">@color/dashboard_row_background</color>
+    <color name="settings_list_header_background">#CDCFD0</color>
+    <color name="settings_list_header">#67727B</color>
+
+    <color name="btn_delete_contact_background">#E08F90</color>
+
+    <!-- OTHER COLOURS -->
+    <color name="red">#FF0044</color>
+    <color name="blue">#0000FF</color>
+
+    <!-- PAW MARKER COLOURS AS DEFINED BY STYLE GUIDE -->
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#626262</color>
+    <color name="orange">#F67F00</color>
+    <color name="purple">#8920A4</color>
+    <color name="green">#5BC809</color>
+    <color name="steel">#5D688A</color>
+    <color name="olive">#939730</color>
+    <color name="pink">#FE008F</color>
+    <color name="brown">#915D46</color>
+    <color name="teal">#00E0CD</color>
+    <color name="gold">#FEB200</color>
+    <color name="geofence_fill">#809FA4AF</color>
+    <color name="geofence_stroke">#99353535</color>
+    <color name="radius_of_accuracy_stroke">#B3FFFFFF</color>
+    <color name="lightly_active_color">#3CF665</color>
+    <color name="very_active_color">#F7BA17</color>
+    <color name="fairly_active_color">#F3F123</color>
+    <color name="rest_color">#D8D8D8</color>
+    <color name="resting_color">#6EB7E4</color>
+    
+    
+    
+    
+
+    <!--
+        COLORS Supported formats: #RRGGBB #AARRGGBB, 'BLUE_GRAY',
+        'GRAY_30', 'GRAY_60', 'GRAY_85', 'BLACK', 'WHITE
+    -->
+    <!-- END COLORS -->
+
+</resources>
