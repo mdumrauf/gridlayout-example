@@ -8,8 +8,6 @@ with a Maven project using the [Maven Android SDK Deployer] (https://github.com/
 How to Run the example
 ----------------------
 
-- While the Pull Request is being reviewed, download [my fork] (https://github.com/mdumrauf/maven-android-sdk-deployer) of Android SDK Deployer.
-
 - Install the sdk level you want to target in your local repo, e.g.:
 
    	  	mvn install -P 2.2
@@ -20,7 +18,7 @@ How to Run the example
     	mvn install
 
 - Now you're ready to package and deploy this sample project. From the
-root folder of this project:
+root folder of this project do:
 
     	mvn package
     	mvn android:deploy
